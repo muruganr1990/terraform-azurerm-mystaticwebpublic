@@ -1,2 +1,2 @@
 #This is my first static web creation. testing
-#Testing management module
+#This is new release from now on
